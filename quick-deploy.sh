@@ -35,15 +35,15 @@ apt-get update
 apt-get install -y build-essential liburing-dev libbpf-dev pkg-config
 
 echo
-echo "3. Building Xerxes-Ultimate..."
+echo "3. Building Artaxerxes..."
 make
 
 echo
 echo "4. Ready to launch!"
-echo "   Basic usage: ./xerxes-ultimate <target> <port>"
-echo "   Advanced:    ./xerxes-ultimate <target> <port> <traffic_spec>"
+echo "   Basic usage: ./Artaxerxes <target> <port>"
+echo "   Advanced:    ./Artaxerxes <target> <port> <traffic_spec>"
 echo
 echo "🎯 Example commands:"
-echo "   ./xerxes-ultimate 192.168.1.100 80"
-echo "   ./xerxes-ultimate 192.168.1.100 80 10M_pps"
-echo "   ./xerxes-ultimate 192.168.1.100 80 5Gbps"
+echo "   ./Artaxerxes 192.168.1.100 80"
+echo "   ./Artaxerxes 192.168.1.100 80 10M_pps"
+echo "   ./Artaxerxes 192.168.1.100 80 5Gbps"
